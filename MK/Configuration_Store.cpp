@@ -37,7 +37,7 @@
  */
 #include "base.h"
 
-#define EEPROM_VERSION "MKV428"
+#define EEPROM_VERSION "MKV429"
 
 /**
  * MKV428 EEPROM Layout:
