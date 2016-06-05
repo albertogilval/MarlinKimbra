@@ -1,6 +1,6 @@
 <img align="right" src="Documentation/Logo/MarlinKimbra%20Logo%20GitHub.png" />
 # MarlinKimbra 3D Printer Firmware for Arduino
-## Version 4.2.84 Laser dev
+## Version 4.2.85 Laser dev
 
 This is the Laser enhananced version with the patches from Franco (nextime) Lanza.
 
@@ -65,6 +65,7 @@ The new features are:
  - Added Cooler and Hot Chamber
  - Added Laser beam and raster base64
  - Added Mesh Bed Level (MBL)
+ - Added Stop and Save for Restart (SSR)
 
 ## Credits
 
