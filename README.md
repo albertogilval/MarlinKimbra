@@ -56,9 +56,9 @@ The new features are:
  - Adding commands to facilitate purging of hotend. 
  - Step per unit varied for each extruder as well as the feedrate and the acceleration.
  - Adding Debug Dryrun used by repetier.
- - Added total Power on time writed in SD CARD.
- - Added total Power consumption writed in SD CARD.
- - Added total filament printed writed in SD CARD.
+ - Added total Power on time written in SD CARD.
+ - Added total Power consumption written in SD CARD.
+ - Added total filament printed written in SD CARD.
  - Added anti extruder idle oozing system.
  - Added Hysteresis and Z-Wobble correction (only cartesian printers).
  - Added support reader TAG width MFRC522
