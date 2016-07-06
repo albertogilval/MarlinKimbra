@@ -16,25 +16,25 @@ For K40 laser cutter there are branches with the default config files ready to u
  * [without cooler and flow sensor](https://git.nexlab.net/machinery/MarlinKimbra/tree/k40_noflow_nocooler)
 
 Also, take care that lasers needs a larger serial buffer on arduino mega 2560 than the default 64 byte buffer, so
-take a look at needed modification on the arduino ide from [Laser Documentation README](/Documentation/Laser/README.md)
+take a look at needed modification on the arduino ide from [Laser Documentation README](Documentation/Laser/README.md)
 
 ### Special thanks
 * all Marlin8bit-developers.
 
 ---
 # MarlinKimbra 3D Printer Firmware
-  * [Configuration & Compilation](/Documentation/Compilation.md)
+  * [Configuration & Compilation](Documentation/Compilation.md)
   * Supported
-    * [Features](/Documentation/Features.md)
-    * [Hardware](/Documentation/Hardware.md)
-    * [GCodes](/Documentation/GCodes.md)
+    * [Features](Documentation/Features.md)
+    * [Hardware](Documentation/Hardware.md)
+    * [GCodes](Documentation/GCodes.md)
   * Notes
-    * [Auto Bed Leveling](/Documentation/BedLeveling.md)
-    * [Filament Sensor](/Documentation/FilamentSensor.md)
-    * [Ramps Servo Power](/Documentation/RampsServoPower.md)
+    * [Auto Bed Leveling](Documentation/BedLeveling.md)
+    * [Filament Sensor](Documentation/FilamentSensor.md)
+    * [Ramps Servo Power](Documentation/RampsServoPower.md)
     * [LCD Language - Font - System](Documentation/LCDLanguageFont.md)
   * Version
-    * [Change Log](/Documentation/changelog.md)
+    * [Change Log](Documentation/changelog.md)
 
 
 ## Configurator Tool Online
@@ -78,5 +78,5 @@ Laser features have been added by:
 
 ## License
 
-Marlin is published under the [GPL license](/Documentation/COPYING.md) because I believe in open development.
+Marlin is published under the [GPL license](Documentation/COPYING.md) because I believe in open development.
 Please do not use this code in products (3D printers, CNC etc) that are closed source or are crippled by a patent.
